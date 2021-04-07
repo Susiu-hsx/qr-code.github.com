@@ -1,4 +1,4 @@
-## Welcome to GitHub 
+#个人信息
 
 You can use the [editor on GitHub](https://github.com/Susiu-hsx/qr-code.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
